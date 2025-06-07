@@ -1,6 +1,7 @@
 # Otimização por Algoritmos Genéticos: Aplicação no planejamento das operações de carregamento de linhas flexíveis
 
 Aluno: Marcos Sidnei Silva
+
 Matrícula: 211.101.157
 
 A solução proposta neste trabalho consiste na aplicação de algoritmos genéticos na otimização dos custos das operações de carregamento de linhas flexíveis em uma empresa de grande porte, que atua no seguimento de óleo e gás.
