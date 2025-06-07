@@ -4,6 +4,10 @@ Aluno: Marcos Sidnei Silva
 
 Matrícula: 211.101.157
 
+Orientadora: Ana Carolina Alves Abreu
+
+## Resumo
+
 A solução proposta neste trabalho consiste na aplicação de algoritmos genéticos na otimização dos custos das operações de carregamento de linhas flexíveis em uma empresa de grande porte, que atua no seguimento de óleo e gás.
 
 O planejamento das operações de carregamento realizado atualmente tem como objetivo principal distribuir a demanda de carregamento entre os diferentes complexos portuários disponíveis, priorizando o nivelamento da utilização da capacidade dos recursos (berços de atracação de embarcações), sendo o aspecto custo considerado apenas nos casos nos quais existe a possibilidade de realizar estas operações diretamente nos fornecedores. Apesar de se tratar de uma atividade secundária, os serviços de logística de base envolvem valores representativos, desta forma, identificou-se a oportunidade de acrescentar ao planejamento critérios que objetivam a otimização dos custos, tanto relacionados ao suprimento dos bens (referente a entrega nas bases de carregamento contratadas por disponibilidade ou carregamento diretamente nos fornecedores) quanto ao deslocamento das embarcações até os locais de aplicação das linhas, sem deixar de considerar, é claro, a necessidade de atendimento as restrições de capacidade de carregamento nos diferentes complexos portuários.
